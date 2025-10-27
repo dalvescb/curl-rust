@@ -224,7 +224,6 @@ fn main() {
         .file("curl/lib/vauth/digest.c")
         .file("curl/lib/vauth/vauth.c")
         .file("curl/lib/version.c")
-        .file("curl/lib/vquic/curl_msh3.c")
         .file("curl/lib/vquic/curl_ngtcp2.c")
         .file("curl/lib/vquic/curl_osslq.c")
         .file("curl/lib/vquic/curl_quiche.c")
